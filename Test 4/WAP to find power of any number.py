@@ -1,0 +1,8 @@
+# Program to find power of any number
+
+base = int(input("Enter the base number: "))
+power = int(input("Enter the power: "))
+
+result = base ** power
+
+print("Result =", result)
